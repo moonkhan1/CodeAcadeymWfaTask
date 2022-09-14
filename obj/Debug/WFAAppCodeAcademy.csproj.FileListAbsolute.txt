@@ -1,0 +1,11 @@
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\bin\Debug\WFAAppCodeAcademy.exe.config
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\bin\Debug\WFAAppCodeAcademy.exe
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\bin\Debug\WFAAppCodeAcademy.pdb
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.csproj.AssemblyReference.cache
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.Form1.resources
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.Properties.Resources.resources
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.csproj.GenerateResource.cache
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.exe
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.pdb
+C:\Users\Ayxan\Desktop\WFACodeAcademy\WFAAppCodeAcademy\obj\Debug\WFAAppCodeAcademy.Form2.resources
